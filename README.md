@@ -13,6 +13,18 @@ Ce projet intitulé Piiquante consiste à développer une application web de cri
 
 1 - Installer le backend
 
-`cd backend`
+cd backend
 
-`npm install`
+npm install
+
+Dans config.js mettre les informations de connexion à la base de donnée mongoDB et entrer une clée secréte pour l’authentification JWT
+
+npm start
+
+2 - Installer le frontend
+
+cd frontend
+
+npm install
+
+npm start
